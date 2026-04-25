@@ -13,7 +13,7 @@ A Python-based project that combines a Command Line Interface (CLI) with a FastA
 * 🔒 Input validation with Pydantic
 * ❌ Duplicate ID prevention
 
----
+----
 
 ## 🛠️ Tech Stack
 
